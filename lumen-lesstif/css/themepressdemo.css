@@ -1,0 +1,18 @@
+/* These snippets are used to support the built-in demo space. If you have a copy of this theme, feel free to delete this file. */
+
+.brikit-content-block.evaluator-demo-hero h1 {
+  font-size: 40px;
+  color: #192e59;
+}
+
+.brikit-content-block.tour-guide h1 {
+  border-bottom: none;
+}
+
+body.macro-examples #page .brikit-canvas {
+background: $lightGrayColor url(/plugins/servlet/themepress/brikitservlet/designs/themes/lumen/images/theme-press_grayscale.png) center 2550px repeat-x;
+}
+
+body.macro-examples table.confluenceTable td.confluenceTd.highlight-blue {
+  background-color: #EFF6F5;
+}

@@ -1,0 +1,13 @@
+/* Call to Action buttons. If you have a copy of this theme, you will need to change the theme name in the image URLs below.  */
+.action-button.call-to-action {
+  padding: 5px 26px 5px 9px;
+  background: $primaryColor url(/plugins/servlet/themepress/brikitservlet/designs/themes/lumen/images/CTA-arrow.png) 92% 50% no-repeat;
+}
+
+.action-button.call-to-action:hover {
+  background: #101E3B url(/plugins/servlet/themepress/brikitservlet/designs/themes/lumen/images/CTA-arrow.png) 92% 50% no-repeat;
+}
+
+#main .brikit-content-layers .aui-button.action-button.call-to-action a {
+  font-size: 16px;
+}
