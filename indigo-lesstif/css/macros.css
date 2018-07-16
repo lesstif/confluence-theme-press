@@ -1,0 +1,57 @@
+/*blog post macro - excerpt view*/
+
+.blog-post-listing .wiki-content {
+  font-family: 'Nanum Barun Gothic', 'Open Sans', Verdana, Helvetica, sans-serif;
+  color: #5c5c5c;
+}
+
+.blog-post-listing a.blogHeading {
+  font-family: 'Nanum Barun Gothic', 'Bree Serif', Georgia, serif;
+}
+
+.blog-post-listing .blogHeading {
+font-size: 16px;
+}
+
+.blog-post-listing {
+  padding: 9px 0 12px 0;
+margin-top: 12px;
+}
+
+.blog-post-listing .logoBlock,
+.blog-post-listing .endsection {
+display: none;
+}
+.blog-post-listing .wiki-content {
+font-size: 14px;
+  font-weight: 400;
+  color: $darkGrayColor;
+}
+
+.blog-post-listing .logo-heading-block {
+  margin-bottom: 4px;
+}
+
+/*blog post macro - title view */
+.blog-post-list .blog-item-date,
+.blog-post-list .blog-item-creator,
+.blog-post-list .blog-item-space,
+.blog-post-list .sub-heading {
+display: none;
+}
+
+.blog-post-list .blog-title a {
+  font-family: 'Nanum Barun Gothic', 'Bree Serif', Georgia, serif;
+  text-transform: none;
+  color: #7C99A0 !important;
+}
+
+.profile-macro .vcard .userLogoLink:hover {
+border: none;
+}
+.profile-macro .vcard .userLogoLink img {
+border: 1px solid $primaryColor;
+}
+.profile-macro .vcard .userLogoLink:hover img {
+border: 1px solid $tertiaryColor;
+}

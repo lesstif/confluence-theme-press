@@ -1,0 +1,19 @@
+#main-content .brikit-content-block.hero h1,
+#main-content .brikit-content-block.hero h2,
+#main-content .brikit-content-block.hero h3 {
+	margin: 0;
+	padding: 0;
+	line-height: 1em;
+}
+
+#main-content .brikit-content-block.hero h1 {
+  font-size: 75px;
+}
+
+#main-content .brikit-content-block.hero h2 {
+  font-size: 60px;
+}
+
+#main-content .brikit-content-block.hero h3 {
+  font-size: 35px;
+}

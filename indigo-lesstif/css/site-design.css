@@ -1,0 +1,8 @@
+.brikit-content-block.no-background {
+  background: none;
+}
+
+.brikit-content-block.block-overflow-hidden {
+  overflow: hidden;
+}
+

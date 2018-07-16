@@ -1,0 +1,13 @@
+/*-----Call To Action Button Styling (larger buttons with arrow image)-----*/
+
+.action-button.call-to-action {
+  padding: 6px 2px 6px 12px;
+  font-size: 16px;
+}
+      
+.action-button.call-to-action a,
+.action-button.call-to-action a:link {
+  font-size: 16px !important;
+  padding-right: 32px;
+  background: transparent url(/plugins/servlet/themepress/brikitservlet/designs/themes/indigo/images/CTA-arrow.png) no-repeat center right;
+}
